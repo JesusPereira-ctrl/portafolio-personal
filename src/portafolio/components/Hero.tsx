@@ -50,12 +50,7 @@ export const Hero = () => {
               variant='outline'
               asChild
             >
-              <a
-                download='/Jesus-Pereira-Matus.pdf'
-                href='#contacto'
-              >
-                Descargar CV
-              </a>
+          
             </Button>
           </div>
 
