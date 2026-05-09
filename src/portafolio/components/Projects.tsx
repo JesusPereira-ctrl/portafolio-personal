@@ -27,6 +27,18 @@ const projects = [
     demo: undefined,
     featured: false,
   },
+  {
+    id: 2,
+    title: 'Product API',
+    description:
+      'API creada con Spring Boot para poner en practica relaciones con Spring Data JPA y conocimientos del framework spring',
+    image: '/placeholder-project.jpg',
+    technologies: ['Java', 'Spring', 'PostgreSQL'],
+    github: 'https://github.com/JesusPereira-ctrl/products_api',
+    // demo: 'https://demo.com',
+    demo: undefined,
+    featured: false,
+  },
 ];
 
 const allTechnologies = [
