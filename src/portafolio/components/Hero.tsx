@@ -51,7 +51,7 @@ export const Hero = () => {
               asChild
             >
               <a
-                download='../../assets/Jesus-Pereira-Matus CV.pdf.pdf'
+                download='/Jesus-Pereira-Matus.pdf'
                 href='#contacto'
               >
                 Descargar CV
